@@ -1,0 +1,5 @@
+[deps]
+MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+RDC = "3b1ecaba-f0e1-446f-8c8b-95f4a6f8ddf6"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
